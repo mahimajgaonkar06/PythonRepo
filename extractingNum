@@ -1,3 +1,4 @@
 num=int(input("Enter number: "))
 n=num%10
 print(num,": last digit is",n)
+
